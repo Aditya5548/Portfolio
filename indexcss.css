@@ -30,7 +30,10 @@ p button
     border-radius: 10px;
     box-shadow: 5px;
 }
-
+.box{
+    text-align: center;
+    
+}
 #About{
     color: white;
     
