@@ -1,0 +1,68 @@
+#navbarToggle
+{   justify-content: end;
+    padding: 5px 20px 5px 20px;
+}
+
+#navbarcss
+{ 
+    align-items: center;
+    
+}
+#myNavbar{
+    padding: 5px 20px 5px 20px;
+}
+
+#navbarcss li a
+{color:white;
+}
+
+#navbarcss li a:hover
+{color: rgb(245, 9, 9);
+border-bottom: 2px solid rgb(255, 0, 0);
+padding:-5px 0 0 0;
+}
+.aboutsection
+{   
+
+    background-color: rgb(12, 12, 12);
+    margin: 50px 20px 0px 20px;
+    border-radius: 50px;
+}
+
+.aboutsection h1
+{
+    font-size: 50px;
+    color: white;
+    border-bottom: 2px;
+}
+
+.aboutsection h5
+{margin-top: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+.Education
+{  
+    font-size: 16px;
+    color: white;
+}
+
+.gallary1
+{
+    height: 250px;
+    width: 300px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.gallary1:hover
+{
+    height:350px;
+    width: 400px;
+}
+
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link{ background: black;}

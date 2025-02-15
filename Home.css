@@ -1,0 +1,28 @@
+#navbarToggle
+{   justify-content: end;
+    padding: 5px 20px 5px 20px;
+}
+
+#navbarcss
+{ 
+    align-items: center;
+    
+}
+#myNavbar{
+    padding: 5px 20px 5px 20px;
+}
+
+#navbarcss li a
+{color:white;
+}
+
+#navbarcss li a:hover
+{color: rgb(245, 9, 9);
+border-bottom: 2px solid rgb(255, 0, 0);
+padding:-5px 0 0 0;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link{ background: black;}

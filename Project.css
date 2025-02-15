@@ -1,0 +1,59 @@
+#navbarToggle
+{   justify-content: end;
+    padding: 5px 20px 5px 20px;
+}
+
+#navbarcss
+{ 
+    align-items: center;
+    
+}
+#myNavbar{
+    padding: 5px 20px 5px 20px;
+}
+
+#navbarcss li a
+{color:white;
+}
+
+#navbarcss li a:hover
+{color: rgb(245, 9, 9);
+border-bottom: 2px solid rgb(255, 0, 0);
+padding:-5px 0 0 0;
+}
+.box{
+    text-align: center;
+    margin: 5px;
+    padding:5px;
+}
+#box-inside{
+    width: 300px;
+    border-radius: 40px;
+    background: linear-gradient(to right, #252425, #92907a);
+    padding: 20px 20px 10px 20px;
+    margin-top: 10px;
+    color: white;
+}
+
+#box-inside img{
+    width: 250px;
+    height: 200px;
+}
+#box-inside button
+{  
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(27, 25, 25);
+    margin-top: 10px;
+    
+}
+
+
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link{ background: black;}
